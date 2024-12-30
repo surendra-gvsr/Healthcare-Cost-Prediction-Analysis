@@ -1,6 +1,6 @@
 # Healthcare-Cost-Prediction-Analysis
 
-Let me help you write a report for this Boston Housing Dataset analysis following the same format.
+
 
 1. EXECUTIVE SUMMARY
 This analysis investigates housing prices in Boston using data from 506 properties to understand the relationship between median home values and various neighborhood characteristics. Our analysis reveals that room count (RM) and lower status population percentage (LSTAT) are the strongest individual predictors, with RM explaining 48.4% and LSTAT explaining 54.4% of price variation respectively. The final optimized model, incorporating transformed variables and interaction terms, explains 79.8% of price variation. Notably, properties near Charles River (6.92% of sample) show significantly higher values, with an average increase of $2,690. Based on these findings, we recommend considering both property characteristics and neighborhood demographics for accurate price predictions.
