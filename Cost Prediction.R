@@ -4,7 +4,6 @@
 library(stargazer)
 
 
-
 # Loading data using read.csv()
 A1 <- read.csv(file = "insurance.csv", header = TRUE, sep = ',')
 
