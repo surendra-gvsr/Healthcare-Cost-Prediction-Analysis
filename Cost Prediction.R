@@ -1,14 +1,9 @@
-# ECO 520 Business Analytics II
-# Assignment-1
-# Instructor: Peter Bondarenko
-#File Submitted By: Venkata Surendra Reddy G
-#Student Id: 2181389
+
 
 # Install packages and load libraries
 library(stargazer)
 
-#Setting Working Directory
-setwd("D:/03-Depaul Assignments/BATools2/Data") 
+
 
 # Loading data using read.csv()
 A1 <- read.csv(file = "insurance.csv", header = TRUE, sep = ',')
